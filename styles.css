@@ -11,6 +11,9 @@ img{
     margin: -6px;
     margin-left: 12px;
 }
+body{
+    margin-top: 100px;
+}
 button{
     width: 120px;
     height: 30px;
