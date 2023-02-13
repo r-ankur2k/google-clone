@@ -1,0 +1,44 @@
+img{
+    width: 370px;
+}
+#mic{
+    width: 30px;
+    margin: -10px;
+    margin-left: -74px;
+}
+#lens{
+    width: 23px;
+    margin: -6px;
+    margin-left: 12px;
+}
+button{
+    width: 120px;
+    height: 30px;
+    border-radius: 6px;
+    background-color: transparent;
+    border: 1px solid rgb(214, 208, 208);
+    margin: 11px 4px;
+    border-radius: 5px;
+}
+.btn{
+    text-align: center;
+}
+.google-img{
+    text-align: center;
+    margin: auto;
+}
+.input{
+    text-align: center;
+    padding: 10px;
+}
+input{
+    border: 1px solid rgb(214, 208, 208);
+    padding: 7px 30px;
+    border-radius: 15px;
+    width: 250px;
+    border-right: 1px transparent white;
+}
+footer{
+    text-align: center;
+    margin-top: 170px;
+}
