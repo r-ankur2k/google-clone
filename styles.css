@@ -45,3 +45,8 @@ footer{
     text-align: center;
     margin-top: 170px;
 }
+body{
+    width: 400px;
+    height: 900px;
+    margin: 100px auto 100px auto;
+}
